@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<title>Login Form</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
@@ -7,10 +8,11 @@
 	<script src="https://kit.fontawesome.com/a81368914c.js"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
+
 <body>
 	<img class="wave" src="img/wave.png">
 	<div id="back">
-		<a href="../home.html"  ><i class="fa fa-arrow-left" aria-hidden="true"></i></a>
+		<a href="../home.html"><i class="fa fa-arrow-left" aria-hidden="true"></i></a>
 	</div>
 	<div class="container">
 		<div class="img">
@@ -20,29 +22,40 @@
 			<form action="index.html">
 				<img src="img/avatar.svg">
 				<h2 class="title">Welcome</h2>
-           		<div class="input-div one">
-           		   <div class="i">
-           		   		<i class="fas fa-user"></i>
-           		   </div>
-           		   <div class="div">
-           		   		<h5>Username</h5>
-           		   		<input type="text" class="input" name="Username" required>
-           		   </div>
-           		</div>
-           		<div class="input-div pass">
-           		   <div class="i">
-           		    	<i class="fas fa-lock"></i>
-           		   </div>
-           		   <div class="div">
-           		    	<h5 id="phone-password">Password</h5>
-           		    	<input type="password" class="input" name="Password" id="Password" required>
-            	   </div>
-            	</div>
-            	<a href="#" id="toggle">Login via phone instead </a>
-							<input type="submit" class="btn" value="Login">
-            </form>
-        </div>
-    </div>
-    <script type="text/javascript" src="js/main.js"></script>
+				<div class="input-div one">
+					<div class="i">
+						<i class="fas fa-user"></i>
+					</div>
+					<div class="div">
+						<h5>Username</h5>
+						<input type="text" class="input" name="Username" required>
+					</div>
+				</div>
+				<div class="input-div email">
+					<div class="i">
+						<i class="fas fa-mobile"></i>
+					</div>
+					<div class="div">
+						<h5 id='mobile'>Enter your mobile number</h5>
+						<input type="tel" class="input" name="mobile" required>
+					</div>
+				</div>
+				<div class="input-div pass">
+					<div class="i">
+						<i class="fas fa-lock"></i>
+					</div>
+					<div class="div">
+						<h5 id="phone-password">Password</h5>
+						<input type="password" class="input" name="Password" id="Password" required>
+					</div>
+				</div>
+
+				<a href="#" id="toggle">Login via phone instead? </a>
+				<input type="submit" class="btn" value="Login">
+			</form>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/main.js"></script>
 </body>
+
 </html>
