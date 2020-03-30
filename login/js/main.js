@@ -3,22 +3,18 @@ const inputs = document.querySelectorAll(".input");
 var toggle=document.querySelector("#toggle");
 toggle.addEventListener("click",function(){
 	var phonePass=document.getElementById("phone-password");
-	var email = document.getElementById("email");
-	if(toggle.innerHTML=="Login via password?")
+	if(toggle.innerHTML=="Login via password instead")
 	{
-			toggle.innerHTML="Login via phone instead?";
-			phonePass.innerHTML="Enter Password";
-			email.innerHTML = "Enter your email id";
+			toggle.innerHTML="Login via phone instead";
+			phonePass.innerHTML="Password";
 			var passIn=document.getElementById("OTP");
 			passIn.setAttribute("name","Password");
 			passIn.setAttribute("id","Password");
-			
 	}
 	else
 	{
-			toggle.innerHTML="Login via password?";
+			toggle.innerHTML="Login via password instead";
 			phonePass.innerHTML="Enter OTP";
-			email.innerHTML = "Enter your phone number";
 			var passIn=document.getElementById("Password");
 			passIn.setAttribute("name","OTP");
 			passIn.setAttribute("id","OTP");
@@ -35,7 +31,6 @@ function remcl(){
 		parent.classList.remove("focus");
 	}
 }
-
 
 inputs.forEach(input => {
 	input.addEventListener("focus", addcl);
