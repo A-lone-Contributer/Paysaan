@@ -1,4 +1,4 @@
-#MishMash Hackathon
+# MishMash Hackathon
 
 Project designed and Developed By Team Bro_Code
 
@@ -10,7 +10,7 @@ Nihal Pandey https://github.com/nihalpandey4
 
 Nishkarsh https://github.com/A-lone-Contributer
 
-##Farmers-Payments-and-Microinsurance-Transaction-Management-System
+## Farmers-Payments-and-Microinsurance-Transaction-Management-System
 
 Farming is the major occupation in India since ages. Jai Kisan Motive of the Indian government has given the commitment to doubling farmers’ income by 2022 and the objective of this project aims to boost the income of farmers and enhance their standard of living and purchasing power the following below are features to consider.
 
