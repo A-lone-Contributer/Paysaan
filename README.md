@@ -1,6 +1,6 @@
 # MishMash Hackathon
 
-Project designed and Developed By Team bro_code.
+Project designed and Developed By Team **bro_code**.
 
 Kiran - https://github.com/Apollo9999
 
@@ -16,7 +16,7 @@ Farming is the major occupation in India since ages. Jai Kisan Motive of the Ind
 
 Making the life of farmers easier, better and secure one transaction at a time.
 
-A Decentralized Payments and Microinsurance Transaction Management System for Farmers
+A Decentralized Payments and Microinsurance Transaction Management System for Farmers.
 
 Agriculture is the most important sector of the Indian Economy. The Indian agriculture sector accounts for 18 percent of India's gross domestic product and provides employment to 50% of the countries workforce. Yet every day we can see that the farmers are in various kinds of troubles and are facing a lot of issues economically as well as they are not able to tap the schemes or tech facilities available which can help solve a lot of issues.
 
@@ -28,6 +28,6 @@ Further, the whole platform is decoupled and various developers can use the dev-
 
 Spring Boot, Python, Angular, Twilio Messaging API, MySQL and Microsoft Azure Web Interface.
 
-Twilio's Programmable SMS API helps you add robust messaging capabilities to our applications. Using this REST API, we can send and receive SMS messages, track the delivery of sent messages, and retrieve and modify message history.
+**Twilio's Programmable SMS API** helps you add robust messaging capabilities to our applications. Using this REST API, we can send and receive SMS messages, track the delivery of sent messages, and retrieve and modify message history.
 
-Spring Boot is an open source Java-based framework used to create a micro Service. It is developed by the Pivotal Team and is used to build stand-alone and production-ready spring applications.
+**Spring Boot** is an open source Java-based framework used to create a micro Service. It is developed by the Pivotal Team and is used to build stand-alone and production-ready spring applications.
