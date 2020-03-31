@@ -1,14 +1,14 @@
 # MishMash Hackathon
 
-Project designed and Developed By Team Bro_Code
+Project designed and Developed By Team bro_code.
 
-Kiran https://github.com/Apollo9999
+Kiran - https://github.com/Apollo9999
 
-Fahad Hassan https://github.com/FahadHassan2499
+Fahad Hassan - https://github.com/FahadHassan2499
 
-Nihal Pandey https://github.com/nihalpandey4
+Nihal Pandey - https://github.com/nihalpandey4
 
-Nishkarsh https://github.com/A-lone-Contributer
+Nishkarsh Tripathi - https://github.com/A-lone-Contributer
 
 ## Farmers-Payments-and-Microinsurance-Transaction-Management-System
 
