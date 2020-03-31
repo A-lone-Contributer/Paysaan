@@ -24,9 +24,9 @@ In order to address these issues we have come with Payeasy, Blockchain is the Ta
 
 Further, the whole platform is decoupled and various developers can use the dev-friendly APIs in order to integrate into their apps and make secure payments using the paysaan network. You need not worry about security, as we have Multi-Factor Authentication from the user side to process the transactions and various Hashing and Encryption algorithms are placed at multiple levels to keep you safe and enjoy transacting and progressing. Why Payeasy Easier to use a phone number and password, than a public key and private key for transactions Simple interface to use the platform Implemented multi-factor authentication to ensure secure usage Developer-friendly APIs for further implementation in other programs Supports micro-insurance for cheap, fast and reliable insurance coverage for various needs Fraud prevention by blockchain based public ledger.
 
-Tech Stack Used:
+### Tech Stack Used:
 
-Spring Boot, Python, Angular, Twilio Messaging API, MySQL, and Microsoft Azure Web Interface.
+Spring Boot, Python, Angular, Twilio Messaging API, MySQL and Microsoft Azure Web Interface.
 
 Twilio's Programmable SMS API helps you add robust messaging capabilities to our applications. Using this REST API, we can send and receive SMS messages, track the delivery of sent messages, and retrieve and modify message history.
 
