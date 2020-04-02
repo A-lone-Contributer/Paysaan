@@ -60,21 +60,22 @@ ul li.login a {
 }
 
 
-@media (max-width : 600px)
+@media (max-width : 370px)
 {
 
   .title {
-  position: absolute;
+  position: relative;
   top: 30%;
-  left:50%;
+  right: 15%;
   transform: translate(-50%, -50%);
 }
   .title h1 {
   color: #38d39f;
   font-size: 5px;
   padding: 15px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   text-align: center;
+
 
 }
 
@@ -88,6 +89,8 @@ ul {
   margin-bottom: 25px;
   list-style-type: none;
   text-align: center;
+  display: flex;
+  padding-bottom: 10px;
 
 }
 
@@ -95,10 +98,8 @@ ul {
   display: inline-block;
   margin: 0 10px;
   align-content: center;
-  padding-right: 70px;
+  padding-right: 18px;
 }
-
-
 
 }
 
