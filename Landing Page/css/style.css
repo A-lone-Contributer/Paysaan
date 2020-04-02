@@ -67,7 +67,7 @@ ul li.login a {
   position: absolute;
   top: 30%;
   left:50%;
-  transform: translate(-40%, -50%);
+  transform: translate(-50%, -50%);
 }
   .title h1 {
   color: #38d39f;
@@ -87,8 +87,18 @@ ul li.login a {
 ul {
   margin-bottom: 25px;
   list-style-type: none;
-  float: right;
+  text-align: center;
+
 }
+
+.about {
+  display: inline-block;
+  margin: 0 10px;
+  align-content: center;
+  padding-right: 70px;
+}
+
+
 
 }
 
