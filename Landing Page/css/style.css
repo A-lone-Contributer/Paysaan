@@ -1,7 +1,6 @@
 * {
   margin: 0;
   border: 0;
-
   font-family: "Poppins", sans-serif;
 }
 
@@ -22,6 +21,7 @@ ul {
   margin-top: 25px;
   list-style-type: none;
   float: right;
+  margin-bottom: 20px;
 }
 
 ul li {
@@ -47,13 +47,6 @@ ul li.login a {
   background-color: #38d39f;
   color: #000;
 }
-/* 
-.logo img{
-  float: left;
-  padding: 20px;
-  width: 110px;
-  height: 80px;
-} */
 
 .main {
   max-width: 1500px;
@@ -66,17 +59,51 @@ ul li.login a {
   transform: translate(-50%, -50%);
 }
 
+
+@media (max-width : 600px)
+{
+
+  .title {
+  position: absolute;
+  top: 30%;
+  left:50%;
+  transform: translate(-40%, -50%);
+}
+  .title h1 {
+  color: #38d39f;
+  font-size: 5px;
+  padding: 15px;
+  margin-bottom: 10px;
+  text-align: center;
+
+}
+
+.title p {
+  color: #fff;
+  font-size: 10px;
+  text-align: center;
+}
+
+ul {
+  margin-bottom: 25px;
+  list-style-type: none;
+  float: right;
+}
+
+}
+
 .title h1 {
   color: #38d39f;
-  font-size: 40px;
+  font-size: 1.4rem;
   padding: 10px;
-  border-style: groove;
   margin-bottom: 15px;
+  text-align: center;
 }
 
 .title p {
   color: #fff;
   font-size: 20px;
+  text-align: center;
 }
 
 section h1 {
@@ -92,4 +119,10 @@ section p {
   font-size: 20px;
 }
 
-/* T R B L */
+.about1 {
+  background-image: url(../images/about.png);
+  height: 100vh;
+  color: #fff;
+  background-attachment: fixed;
+  background-position: center;
+}
